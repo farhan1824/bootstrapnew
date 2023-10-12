@@ -1,0 +1,26 @@
+/* h1{
+    background: red;
+} */
+.penguin{
+color: #FABE4C;
+}
+header{
+    background-color: #FFFBF0;
+}
+.img_screen{
+    width: 650px;
+}
+.box-img{
+    width: 70px;
+}
+.bt-color{
+    background-color: #A4BC46, #85A019;
+}
+@media screen and (max-width:546px ){
+    .img_screen{
+        width: 250px;
+    }
+    /* .box-img{
+        width: 20px;
+    } */
+}
